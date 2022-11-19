@@ -1,3 +1,3 @@
 # The-C
-A repo for C language study. 
-Upload book and script here
+A repo that C language study.      
+Upload book and script here.    
